@@ -1,0 +1,21 @@
+{
+  "name": "linechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "get-json": "0.0.3",
+    "http": "0.0.0",
+    "linebot": "^1.2.1",
+    "request": "^2.79.0",
+    "webduino-blockly": "0.0.10",
+    "webduino-js": "^0.4.10"
+  }
+}
